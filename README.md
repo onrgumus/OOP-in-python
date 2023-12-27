@@ -36,3 +36,6 @@ Bu depo, Python'da Nesne Yönelimli Programlama (OOP) üzerine 3 bölümden olu�
 Her bir bölüm, Python programlamayı anlamak isteyenler için kapsamlı bir kaynak sunmaktadır.
 
 Yakında gelecek bölümleri takip etmek için bu depoyu izleyebilirsiniz! 🚀
+
+You can also find me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/onur-gumus/)
+
